@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksl_docs_demo=self.webpackChunksl_docs_demo||[]).push([[1625],{9640:o=>{o.exports=JSON.parse('{"label":"facebook","permalink":"/SLDocsDemo/blog/tags/facebook","allTagsPath":"/SLDocsDemo/blog/tags","count":1}')}}]);
